@@ -1,1 +1,1 @@
-# acm_accept
+# ICPC_accept
